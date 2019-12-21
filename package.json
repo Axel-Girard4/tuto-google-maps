@@ -1,0 +1,27 @@
+{
+  "name": "tuto-google-maps",
+  "version": "1.0.0",
+  "description": "Carte",
+  "main": "index.js",
+  "scripts": {
+    "test": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axel-Girard4/tuto-google-maps.git"
+  },
+  "keywords": [
+    "Goggle",
+    "maps;",
+    "carte"
+  ],
+  "author": "Axel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Axel-Girard4/tuto-google-maps/issues"
+  },
+  "homepage": "https://github.com/Axel-Girard4/tuto-google-maps#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
